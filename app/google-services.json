@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083637353214",
+    "project_id": "basicpushandroid",
+    "storage_bucket": "basicpushandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083637353214:android:3b12e3d3ab710a0ef773af",
+        "android_client_info": {
+          "package_name": "com.monoremix.basicpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083637353214-1h7s5kr5rlsnlpnbbm7tbems1i77mhqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monoremix.basicpushnotification",
+            "certificate_hash": "99f2c7651e176856d09c25f484f819f997e5e9fc"
+          }
+        },
+        {
+          "client_id": "1083637353214-g6sjp8ebdi9h82rslv7r47cse4tnnkhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZiDf2ZGhvKD-N46LXgGNK_L2W0a0GChE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083637353214-g6sjp8ebdi9h82rslv7r47cse4tnnkhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
